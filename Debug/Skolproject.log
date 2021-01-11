@@ -1,0 +1,4 @@
+﻿  pluggtilltenta.cpp
+C:\Users\Stefan Esber\Desktop\Visualkoder\Skolproject\pluggtilltenta.cpp(231,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Stefan Esber\Desktop\Visualkoder\Skolproject\pluggtilltenta.cpp(399,21): warning C4018: '<': signed/unsigned mismatch
+  Skolproject.vcxproj -> C:\Users\Stefan Esber\Desktop\Visualkoder\Skolproject\Debug\Skolproject.exe
